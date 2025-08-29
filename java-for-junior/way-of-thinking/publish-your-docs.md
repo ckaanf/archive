@@ -1,5 +1,4 @@
 ---
-icon: globe-pointer
 layout:
   width: default
   title:
@@ -16,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Publish your docs
+# 2. 문제를 접근하는
 
 Once you’ve finished writing, editing, or importing your content, you can publish your work to the web as a docs site. Once published, your site will be accessible online only to your selected audience.
 

@@ -1,16 +1,9 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome Java for Junior](README.md)
 
-## Getting Started
+## 사고법 <a href="#way-of-thinking" id="way-of-thinking"></a>
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [개요](way-of-thinking/desc.md)
+* [1. 읽기 좋은 코드를 작성하는](way-of-thinking/readable-code.md)
+* [2. 문제를 접근하는](way-of-thinking/publish-your-docs.md)
