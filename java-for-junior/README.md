@@ -28,3 +28,11 @@ layout:
 
 
 
+{% hint style="success" %}
+작성 된 내용에 대한 피드백이나, 질문 혹은 경험 공유를 해주시고 싶은 분들께서는
+
+[https://github.com/ckaanf/archive/issues](https://github.com/ckaanf/archive/issues)
+
+에 편하게 이슈를 작성해주세요 :smile:
+{% endhint %}
+
