@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [안녕하세요, 김진수입니다 :)](README.md)
 
 ## Getting Started
 
