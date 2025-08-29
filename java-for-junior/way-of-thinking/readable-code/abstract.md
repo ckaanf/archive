@@ -91,6 +91,14 @@ public void someMethod() {
 
 
 
+{% hint style="success" %}
+sample code
+
+[https://github.com/ckaanf/x-for-junior/tree/main/sample/src/main/java/way\_of\_thinking/Ex1\_abstract](https://github.com/ckaanf/x-for-junior/tree/main/sample/src/main/java/way_of_thinking/Ex1_abstract)
+{% endhint %}
+
+
+
 > ref.
 >
 > [https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-18](https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-18)
