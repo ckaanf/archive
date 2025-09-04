@@ -2,15 +2,12 @@
 
 * [안녕하세요, 김진수입니다 :)](README.md)
 
-## Getting Started
+## About Me
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [WIP](about-me/quickstart.md)
 
-## Basics
+## LINK
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Github](https://github.com/ckaanf)
+* [Blog](https://romanc3.tistory.com/)
+* [LinkedIn](https://www.linkedin.com/in/ckaanf)
