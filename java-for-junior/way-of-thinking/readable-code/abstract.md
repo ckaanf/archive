@@ -14,7 +14,7 @@ description: 추상, extract method 등을 활용하여 의미 부여 할 때 �
 
 메서드로  추출을 통해 코드를 의미 있는 단위의 묶음으로 바꿀 수 있습니다.
 
-```
+```java
 public void someMethod() {
     Product product = ...
     // 상품을 가져오는 로직 
@@ -60,7 +60,7 @@ for(Product product: ProductList) {
 
 예를 들어
 
-```
+```java
 public void someMethod() {
  // 상품가져오기
  // 재고가져오기
@@ -72,7 +72,7 @@ public void someMethod() {
 
 추상화 레벨에 구현과   로직이 섞이면 우리는 코드를 읽다가 `해석` 하는 과정이 필요합니다.
 
-```
+```java
 public void someMethod() {
     // 상품가져오기
     // 재고가져오기
