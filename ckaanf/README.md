@@ -18,7 +18,9 @@ layout:
 
 # 안녕하세요, 김진수입니다 :)
 
+{% embed url="https://ckaanf.github.io/ckaanf/" %}
 
+***
 
 ### Jump right in
 
