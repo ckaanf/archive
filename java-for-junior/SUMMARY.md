@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome For Junior](README.md)
+* [Engineering Notes](README.md)
 
 ## 사고법 <a href="#way-of-thinking" id="way-of-thinking"></a>
 
@@ -12,6 +12,16 @@
 * [2. 문제를 접근하는](way-of-thinking/problem-approach.md)
 * [3. 협업을 위한](way-of-thinking/collab.md)
 * [4. 성장을 원하는 사람을 위한](way-of-thinking/want-grown.md)
+
+***
+
+* [설계 원칙](undefined.md)
+* [실무 사례](undefined-1.md)
+* [실험](undefined-2.md)
+* [백엔드](undefined-3.md)
+* [데이터베이스](undefined-4.md)
+* [인프라](undefined-5.md)
+* [커리어](undefined-6.md)
 
 ## 서적 <a href="#books" id="books"></a>
 
