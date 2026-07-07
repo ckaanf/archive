@@ -2,9 +2,10 @@
 
 * [Engineering Notes](README.md)
 
-## 사고법 <a href="#way-of-thinking" id="way-of-thinking"></a>
+## 사고방식 <a href="#way-of-thinking" id="way-of-thinking"></a>
 
-* [사고법의 중요성](way-of-thinking/desc.md)
+* [사고방식](way-of-thinking/desc.md)
+* [문제를 먼저 이해하려고 하는 이유](way-of-thinking/undefined.md)
 * [1. 읽기 좋은 코드를 작성하는](way-of-thinking/readable-code/README.md)
   * [추상화 수준의 통일](way-of-thinking/readable-code/abstract.md)
   * [논리, 사고의 흐름](way-of-thinking/readable-code/logical-stream.md)

@@ -1,5 +1,6 @@
 ---
 description: 읽기 좋은 코드를 작성하는 사고법에 대해 다룹니다
+hidden: true
 layout:
   width: default
   title:
@@ -13,6 +14,10 @@ layout:
   pagination:
     visible: true
   metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
     visible: true
 ---
 

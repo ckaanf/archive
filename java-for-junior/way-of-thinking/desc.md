@@ -1,8 +1,28 @@
 ---
 description: 사고하는 방법, 문제 해결 전략 등에 대해 다룹니다.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+tags:
+  - thinking
 ---
 
-# 개요: 사고법의 중요성
+# 사고방식
 
 가독성 좋은 코드, 효율적인 코드 등 다양한 코드를 작성하는 기법은 이미 널리 알려져 있습니다.\
 하지만 단순히 기법만 알고 있다고 해서 언제나 좋은 코드를 작성할 수 있는 것은 아닙니다.
